@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQLtoMySQL", "MSSQLtoMySQL.csproj", "{807EF0BC-0775-4C00-8DBE-A91893103A10}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{807EF0BC-0775-4C00-8DBE-A91893103A10}.Debug.ActiveCfg = Debug|.NET
+		{807EF0BC-0775-4C00-8DBE-A91893103A10}.Debug.Build.0 = Debug|.NET
+		{807EF0BC-0775-4C00-8DBE-A91893103A10}.Release.ActiveCfg = Release|.NET
+		{807EF0BC-0775-4C00-8DBE-A91893103A10}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
